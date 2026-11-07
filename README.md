@@ -1,16 +1,63 @@
-## Hi there 👋
+Hey, I'm Ayush Tiwari 👋
 
-<!--
-**Deepaktiwari84699/Deepaktiwari84699** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML Student | Automation Intern | Aspiring Developer
 
-Here are some ideas to get you started:
+I'm a B.Tech Artificial Intelligence & Machine Learning student interested in AI-powered applications, automation, and software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently exploring how AI tools and automation can solve real-world problems.
+
+🚀 About Me
+
+- 🎓 B.Tech Student – Artificial Intelligence & Machine Learning
+- 💼 Currently working as an Automation Intern at JP IT Staffing
+- 🤖 Interested in AI Automation and AI-powered applications
+- 💻 Learning Python, C and Kotlin
+- 🛠️ Exploring Vibe Coding and AI-assisted development
+
+💻 Skills & Tools
+
+Programming
+
+- Python (Basics)
+- C (Basics)
+- Kotlin (AI-assisted development)
+
+AI & Development Tools
+
+- ChatGPT
+- Google Gemini
+- Android Studio
+- VS Code
+- Git & GitHub
+
+🚀 Projects
+
+1. Sahyog AI
+
+A multilingual cooperative governance and legal assistance chatbot.
+
+My Contribution: Backend API integration as part of a team project.
+
+2. AI Email Draft Generator
+
+A Python-based tool that generates professional email drafts using user-provided details.
+
+Purpose: Helps users prepare professional emails that they can review, copy and send.
+
+3. AI Study Assistant
+
+An AI-powered study assistance project currently under development.
+
+💼 Experience
+
+Automation Intern – JP IT Staffing
+
+Currently working on real-world automation projects.
+
+🌐 Connect With Me
+
+- GitHub: https://github.com/Deepaktiwari84699
+
+---
+
+⭐ Learning, building and growing every day.
